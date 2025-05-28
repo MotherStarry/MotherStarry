@@ -1,5 +1,5 @@
 -  Hi, I’m @MotherStarry
--  I’m currently learning Java!
+-  I’m currently learning Rust!
 -  How to reach me: Message me on discord @motherstarry
 -  Pronouns: she/they
 -  Fun fact: I use arch (btw)
